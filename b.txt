@@ -1,1 +1,3 @@
 This is some text in B
+
+There is some text from branch 'new' to practise creating, merging and deleting branches.
